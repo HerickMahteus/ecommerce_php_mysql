@@ -1,0 +1,1 @@
+</main><footer>Exemplo didático de e-commerce em PHP e MySQL</footer></body></html>
